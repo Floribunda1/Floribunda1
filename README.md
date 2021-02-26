@@ -1,5 +1,3 @@
-## Hi there, I'm Floribun 😋
+## Hi there, I'm Floribunda 😋
 
-这里是一个刚转行不久的应届前端菜鸡一枚
-梦想是成为前端界的大佬
-一起加油!
+a noob fe developer, dream to be a top fe engineer
