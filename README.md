@@ -1,3 +1,3 @@
-## Hi there, I'm Floribunda 😋
+## Hi there, I'm Floribunda
 
-a noob fe developer, nice to see you
+a noob fe developer
